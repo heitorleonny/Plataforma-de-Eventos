@@ -41,8 +41,4 @@ Com o repositório clonado será necessário efetuar alguns passos para consegui
 
 
 
-Certifique-se de manter esta documentação atualizada à medida que o projeto evolui. Atualize-a para refletir novos recursos, alterações na estrutura do projeto e outros ajustes relevantes.
 
-## Versionamento da Documentação
-
-Considere o uso de uma ferramenta de hospedagem de documentação, como o [Read the Docs](https://readthedocs.org/), para manter versões anteriores da documentação e automatizar o processo de publicação.
